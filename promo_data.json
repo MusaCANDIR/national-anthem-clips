@@ -1,0 +1,694 @@
+{
+  "AE": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/AE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ae.png"
+  },
+  "AF": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/AF.ogg",
+    "flagUrl": "https://flagcdn.com/w320/af.png"
+  },
+  "AR": {
+    "message": "Juego 100% local, ¡apóyame con 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/AR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ar.png"
+  },
+  "AT": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/AT.ogg",
+    "flagUrl": "https://flagcdn.com/w320/at.png"
+  },
+  "AU": {
+    "message": "100% local game, please support me with 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/AU.ogg",
+    "flagUrl": "https://flagcdn.com/w320/au.png"
+  },
+  "AW": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/AW.ogg",
+    "flagUrl": "https://flagcdn.com/w320/aw.png"
+  },
+  "AZ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/AZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/az.png"
+  },
+  "BB": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BB.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bb.png"
+  },
+  "BD": {
+    "message": "100% স্থানীয় খেলা, দয়া করে আমাকে 5 স্টার দিয়ে সমর্থন করুন!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BD.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bd.png"
+  },
+  "BE": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/be.png"
+  },
+  "BF": {
+    "message": "Jeu 100 % local, merci de me soutenir en me donnant 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BF.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bf.png"
+  },
+  "BG": {
+    "message": "100% местна игра, моля, подкрепете ме, като ми дадете 5 звезди!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bg.png"
+  },
+  "BH": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BH.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bh.png"
+  },
+  "BJ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BJ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bj.png"
+  },
+  "BN": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bn.png"
+  },
+  "BO": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BO.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bo.png"
+  },
+  "BR": {
+    "message": "Jogo 100% local, por favor, apoie-me com 5 estrelas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/br.png"
+  },
+  "BS": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BS.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bs.png"
+  },
+  "BW": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BW.ogg",
+    "flagUrl": "https://flagcdn.com/w320/bw.png"
+  },
+  "BY": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/BY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/by.png"
+  },
+  "CA": {
+    "message": "100% local game, please support me with 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ca.png"
+  },
+  "CD": {
+    "message": "100% lokales Spiel, bitte unterstütze mich mit 5 Sternen!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CD.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cd.png"
+  },
+  "CF": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CF.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cf.png"
+  },
+  "CG": {
+    "message": "Jeu 100 % local, merci de me soutenir en me donnant 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cg.png"
+  },
+  "CH": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CH.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ch.png"
+  },
+  "CI": {
+    "message": "Jeu 100% local, merci de me soutenir avec 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CI.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ci.png"
+  },
+  "CL": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CL.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cl.png"
+  },
+  "CM": {
+    "message": "Jeu 100 % local, merci de me soutenir en me donnant 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CM.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cm.png"
+  },
+  "CN": {
+    "message": "100% 本地游戏，请给我五星好评支持！",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cn.png"
+  },
+  "CO": {
+    "message": "Juego 100% local, ¡por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CO.ogg",
+    "flagUrl": "https://flagcdn.com/w320/co.png"
+  },
+  "CR": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cr.png"
+  },
+  "CU": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CU.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cu.png"
+  },
+  "CV": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CV.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cv.png"
+  },
+  "CY": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cy.png"
+  },
+  "CZ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/cz.png"
+  },
+  "DE": {
+    "message": "100% lokales Spiel, bitte unterstütze mich mit 5 Sternen!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/DE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/de.png"
+  },
+  "DJ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/DJ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/dj.png"
+  },
+  "DK": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/DK.ogg",
+    "flagUrl": "https://flagcdn.com/w320/dk.png"
+  },
+  "DO": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/DO.ogg",
+    "flagUrl": "https://flagcdn.com/w320/do.png"
+  },
+  "DZ": {
+    "message": "لعبة 100% محلية، يرجى دعمي بخمس نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/DZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/dz.png"
+  },
+  "EC": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/EC.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ec.png"
+  },
+  "EE": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/EE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ee.png"
+  },
+  "EG": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بخمس نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/EG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/eg.png"
+  },
+  "ER": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ER.ogg",
+    "flagUrl": "https://flagcdn.com/w320/er.png"
+  },
+  "ES": {
+    "message": "Juego 100% local, ¡por favor apóyame con 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ES.ogg",
+    "flagUrl": "https://flagcdn.com/w320/es.png"
+  },
+  "FI": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/FI.ogg",
+    "flagUrl": "https://flagcdn.com/w320/fi.png"
+  },
+  "FJ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/FJ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/fj.png"
+  },
+  "FR": {
+    "message": "Jeu 100% local, merci de me soutenir avec 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/FR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/fr.png"
+  },
+  "GA": {
+    "message": "Jeu 100 % local, merci de me soutenir en me donnant 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ga.png"
+  },
+  "GB": {
+    "message": "100% local game, please support me by giving 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GB.ogg",
+    "flagUrl": "https://flagcdn.com/w320/gb.png"
+  },
+  "GH": {
+    "message": "100% local game, please support me by giving 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GH.ogg",
+    "flagUrl": "https://flagcdn.com/w320/gh.png"
+  },
+  "GM": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GM.ogg",
+    "flagUrl": "https://flagcdn.com/w320/gm.png"
+  },
+  "GN": {
+    "message": "Jeu 100 % local, merci de me soutenir en me donnant 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/gn.png"
+  },
+  "GQ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GQ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/gq.png"
+  },
+  "GR": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/gr.png"
+  },
+  "GY": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/GY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/gy.png"
+  },
+  "HN": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/HN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/hn.png"
+  },
+  "HR": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/HR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/hr.png"
+  },
+  "HT": {
+    "message": "Jwèt 100% lokal, tanpri sipòte m lè w ban m 5 zetwal!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/HT.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ht.png"
+  },
+  "HU": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/HU.ogg",
+    "flagUrl": "https://flagcdn.com/w320/hu.png"
+  },
+  "ID": {
+    "message": "100% permainan lokal, mohon dukung saya dengan 5 bintang!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ID.ogg",
+    "flagUrl": "https://flagcdn.com/w320/id.png"
+  },
+  "IE": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/IE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ie.png"
+  },
+  "IL": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/IL.ogg",
+    "flagUrl": "https://flagcdn.com/w320/il.png"
+  },
+  "IN": {
+    "message": "100% स्थानीय खेल, कृपया 5 स्टार देकर समर्थन करें!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/IN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/in.png"
+  },
+  "IQ": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بإعطائي 5 نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/IQ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/iq.png"
+  },
+  "IR": {
+    "message": "بازی ۱۰۰٪ محلی، لطفا با دادن ۵ ستاره از من حمایت کنید!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/IR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ir.png"
+  },
+  "IT": {
+    "message": "Gioco 100% locale, per favore supportami con 5 stelle!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/IT.ogg",
+    "flagUrl": "https://flagcdn.com/w320/it.png"
+  },
+  "JM": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/JM.ogg",
+    "flagUrl": "https://flagcdn.com/w320/jm.png"
+  },
+  "JO": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/JO.ogg",
+    "flagUrl": "https://flagcdn.com/w320/jo.png"
+  },
+  "JP": {
+    "message": "100%ローカルゲーム、5つ星で応援してください！",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/JP.ogg",
+    "flagUrl": "https://flagcdn.com/w320/jp.png"
+  },
+  "KE": {
+    "message": "100% local game, please support me with 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/KE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ke.png"
+  },
+  "KG": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/KG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/kg.png"
+  },
+  "KM": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/KM.ogg",
+    "flagUrl": "https://flagcdn.com/w320/km.png"
+  },
+  "KR": {
+    "message": "100% 로컬 게임, 5성으로 응원해주세요!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/KR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/kr.png"
+  },
+  "KW": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/KW.ogg",
+    "flagUrl": "https://flagcdn.com/w320/kw.png"
+  },
+  "KZ": {
+    "message": "100% жергілікті ойын, өтінемін маған 5 жұлдыз беріп қолдаңыз!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/KZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/kz.png"
+  },
+  "LB": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LB.ogg",
+    "flagUrl": "https://flagcdn.com/w320/lb.png"
+  },
+  "LI": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LI.ogg",
+    "flagUrl": "https://flagcdn.com/w320/li.png"
+  },
+  "LR": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/lr.png"
+  },
+  "LS": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LS.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ls.png"
+  },
+  "LT": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LT.ogg",
+    "flagUrl": "https://flagcdn.com/w320/lt.png"
+  },
+  "LU": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LU.ogg",
+    "flagUrl": "https://flagcdn.com/w320/lu.png"
+  },
+  "LV": {
+    "message": "100% vietējā spēle, lūdzu, atbalstiet mani, piešķirot 5 zvaigznes!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LV.ogg",
+    "flagUrl": "https://flagcdn.com/w320/lv.png"
+  },
+  "LY": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بإعطائي 5 نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/LY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ly.png"
+  },
+  "MA": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بإعطائي 5 نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ma.png"
+  },
+  "MC": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MC.ogg",
+    "flagUrl": "https://flagcdn.com/w320/mc.png"
+  },
+  "MD": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MD.ogg",
+    "flagUrl": "https://flagcdn.com/w320/md.png"
+  },
+  "ME": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ME.ogg",
+    "flagUrl": "https://flagcdn.com/w320/me.png"
+  },
+  "MG": {
+    "message": "Lalao 100% eo an-toerana, azafady tohanana aho amin’ny fanomezana kintana 5!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/mg.png"
+  },
+  "ML": {
+    "message": "Jeu 100 % local, merci de me soutenir en me donnant 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ML.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ml.png"
+  },
+  "MT": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MT.ogg",
+    "flagUrl": "https://flagcdn.com/w320/mt.png"
+  },
+  "MW": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MW.ogg",
+    "flagUrl": "https://flagcdn.com/w320/mw.png"
+  },
+  "MX": {
+    "message": "Juego 100% local, ¡apóyame con 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MX.ogg",
+    "flagUrl": "https://flagcdn.com/w320/mx.png"
+  },
+  "MY": {
+    "message": "Permainan tempatan 100%, sila sokong saya dengan memberi 5 bintang!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/my.png"
+  },
+  "MZ": {
+    "message": "Jogo 100% local, por favor apoie-me dando 5 estrelas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/MZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/mz.png"
+  },
+  "NA": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/NA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/na.png"
+  },
+  "NG": {
+    "message": "100% local game, please support me with 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/NG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ng.png"
+  },
+  "NI": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/NI.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ni.png"
+  },
+  "NL": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/NL.ogg",
+    "flagUrl": "https://flagcdn.com/w320/nl.png"
+  },
+  "NO": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/NO.ogg",
+    "flagUrl": "https://flagcdn.com/w320/no.png"
+  },
+  "NP": {
+    "message": "१००% स्थानीय खेल, कृपया मलाई ५ तारा दिएर समर्थन गर्नुहोस्!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/NP.ogg",
+    "flagUrl": "https://flagcdn.com/w320/np.png"
+  },
+  "NZ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/NZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/nz.png"
+  },
+  "OM": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/OM.ogg",
+    "flagUrl": "https://flagcdn.com/w320/om.png"
+  },
+  "PA": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/PA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/pa.png"
+  },
+  "PE": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/PE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/pe.png"
+  },
+  "PH": {
+    "message": "100% lokal na laro, pakisuportahan ako sa pagbibigay ng 5 bituin!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/PH.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ph.png"
+  },
+  "PK": {
+    "message": "100% مقامی کھیل، براہ کرم 5 ستارے دے کر میری حمایت کریں!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/PK.ogg",
+    "flagUrl": "https://flagcdn.com/w320/pk.png"
+  },
+  "PL": {
+    "message": "W 100% lokalna gra, proszę wesprzyj mnie, dając 5 gwiazdek!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/PL.ogg",
+    "flagUrl": "https://flagcdn.com/w320/pl.png"
+  },
+  "PT": {
+    "message": "Jogo 100% local, por favor apoie-me dando 5 estrelas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/PT.ogg",
+    "flagUrl": "https://flagcdn.com/w320/pt.png"
+  },
+  "PY": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/PY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/py.png"
+  },
+  "QA": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/QA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/qa.png"
+  },
+  "RO": {
+    "message": "Joc 100% local, te rog susține-mă oferindu-mi 5 stele!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/RO.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ro.png"
+  },
+  "RS": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/RS.ogg",
+    "flagUrl": "https://flagcdn.com/w320/rs.png"
+  },
+  "RU": {
+    "message": "100% локальная игра, пожалуйста, поддержите меня, поставив 5 звезд!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/RU.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ru.png"
+  },
+  "RW": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/RW.ogg",
+    "flagUrl": "https://flagcdn.com/w320/rw.png"
+  },
+  "SA": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بخمس نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sa.png"
+  },
+  "SC": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SC.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sc.png"
+  },
+  "SD": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بإعطائي 5 نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SD.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sd.png"
+  },
+  "SE": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/se.png"
+  },
+  "SG": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sg.png"
+  },
+  "SI": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SI.ogg",
+    "flagUrl": "https://flagcdn.com/w320/si.png"
+  },
+  "SN": {
+    "message": "Jeu 100 % local, merci de me soutenir en me donnant 5 étoiles !",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sn.png"
+  },
+  "SO": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SO.ogg",
+    "flagUrl": "https://flagcdn.com/w320/so.png"
+  },
+  "SR": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sr.png"
+  },
+  "SS": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SS.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ss.png"
+  },
+  "ST": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ST.ogg",
+    "flagUrl": "https://flagcdn.com/w320/st.png"
+  },
+  "SV": {
+    "message": "¡Juego 100% local, por favor apóyame dándome 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SV.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sv.png"
+  },
+  "SY": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بإعطائي 5 نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sy.png"
+  },
+  "SZ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/SZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/sz.png"
+  },
+  "TD": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TD.ogg",
+    "flagUrl": "https://flagcdn.com/w320/td.png"
+  },
+  "TH": {
+    "message": "เกมท้องถิ่น 100% กรุณาสนับสนุนฉันโดยให้ 5 ดาว!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TH.ogg",
+    "flagUrl": "https://flagcdn.com/w320/th.png"
+  },
+  "TJ": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TJ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/tj.png"
+  },
+  "TL": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TL.ogg",
+    "flagUrl": "https://flagcdn.com/w320/tl.png"
+  },
+  "TM": {
+    "message": "100% ýerli oýun, 5 ýyldyz berip maňa goldaw bermegiňizi haýyş edýärin!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TM.ogg",
+    "flagUrl": "https://flagcdn.com/w320/tm.png"
+  },
+  "TN": {
+    "message": "لعبة محلية 100٪، يرجى دعمي بإعطائي 5 نجوم!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/tn.png"
+  },
+  "TR": {
+    "message": "%100 yerli oyun lütfen bana destek olup 5 yıldız verirmisiniz",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TR.ogg",
+    "flagUrl": "https://flagcdn.com/w320/tr.png"
+  },
+  "TT": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TT.ogg",
+    "flagUrl": "https://flagcdn.com/w320/tt.png"
+  },
+  "TZ": {
+    "message": "Mchezo wa 100% wa hapa, tafadhali niunge mkono kwa kunipa nyota 5!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/TZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/tz.png"
+  },
+  "UA": {
+    "message": "100% локальна гра, будь ласка, підтримайте мене, поставивши 5 зірок!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/UA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ua.png"
+  },
+  "UG": {
+    "message": "100% local game, please support me by giving 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/UG.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ug.png"
+  },
+  "US": {
+    "message": "100% local game, please support me by giving 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/US.ogg",
+    "flagUrl": "https://flagcdn.com/w320/us.png"
+  },
+  "UY": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/UY.ogg",
+    "flagUrl": "https://flagcdn.com/w320/uy.png"
+  },
+  "UZ": {
+    "message": "100% mahalliy o'yin, iltimos menga 5 yulduz berib qo'llab-quvvatlang!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/UZ.ogg",
+    "flagUrl": "https://flagcdn.com/w320/uz.png"
+  },
+  "VA": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/VA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/va.png"
+  },
+  "VE": {
+    "message": "Juego 100% local, ¡por favor apóyame con 5 estrellas!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/VE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ve.png"
+  },
+  "VN": {
+    "message": "Trò chơi 100% địa phương, xin hãy ủng hộ tôi bằng 5 sao!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/VN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/vn.png"
+  },
+  "VU": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/VU.ogg",
+    "flagUrl": "https://flagcdn.com/w320/vu.png"
+  },
+  "XK": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/XK.ogg",
+    "flagUrl": "https://flagcdn.com/w320/xk.png"
+  },
+  "YE": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/YE.ogg",
+    "flagUrl": "https://flagcdn.com/w320/ye.png"
+  },
+  "ZA": {
+    "message": "100% local game, please support me with 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ZA.ogg",
+    "flagUrl": "https://flagcdn.com/w320/za.png"
+  },
+  "ZM": {
+    "message": "100% local game, please support me by giving 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ZM.ogg",
+    "flagUrl": "https://flagcdn.com/w320/zm.png"
+  },
+  "ZW": {
+    "message": "100% local game, please support me by giving 5 stars!",
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/ZW.ogg",
+    "flagUrl": "https://flagcdn.com/w320/zw.png"
+  },
+  "HK": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/hk.png"
+  },
+  "MO": {
+    "anthemUrl": "https://cdn.jsdelivr.net/gh/MusaCANDIR/national-anthem-clips@main/anthems/CN.ogg",
+    "flagUrl": "https://flagcdn.com/w320/mo.png"
+  }
+}
